@@ -1,0 +1,25 @@
+/* CSS reset */
+* {
+    margin: 0px,
+    padding: 0px;
+    border-sizing: border-box;
+}
+
+/* Styling the body */
+body {
+    background-color: rgb(1, 1, 18);
+}
+
+#container {
+    border: 2px solid red;
+    margin: 50px;
+    height: 1000px;
+    background-color: rgb(223, 223, 234);
+    padding: 20px;
+}
+
+h2 {
+    font-family: 'Oleo Script Swash Caps', cursive; /* Fonts from google fonts*/
+    font-size: 45px;
+    color: rgb(27, 27, 109);
+}
